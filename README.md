@@ -11,7 +11,7 @@ Features
 -  Human-like spacing & randomness
 -  Custom page backgrounds
 -  Fast generation
-- 🎯High-quality output
+- High-quality output
 -  Works directly in the browser
 
 Built with the goal of making digital handwriting look indistinguishable from real handwriting.
